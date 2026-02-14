@@ -20,6 +20,6 @@ Built with a modular architecture, it allows developers to deploy robust solutio
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Veyronix-OS.git](https://github.com/YOUR_USERNAME/Veyronix-OS.git)
+   git clone [https://github.com/Veyronix_Studios/Veyronix-OS.git](https://github.com/Veyronix_Studios/Veyronix-OS.git)
    cd Veyronix-OS
    
